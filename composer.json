@@ -1,0 +1,14 @@
+{
+  "name": "KEC/Attendance ERP",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ajay",
+      "email": "ajayr.18cse@kongu.edu"
+    }
+  ],
+  "require": {
+  }
+}
